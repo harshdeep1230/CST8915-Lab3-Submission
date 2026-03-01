@@ -15,7 +15,7 @@ This project is composed of three microservices and a RabbitMQ broker:
 
 | Component | Repository Link | Deployed URL |
 | --- | --- | --- |
-| **Store Front** (Vue.js) | [Link to Store Front](https://www.google.com/search?q=https://github.com/your-username/store-front-lab2) | `https:/` |
+| **Store Front** (Vue.js) | [Link to Store Front](https://github.com/harshdeep1230/store-front-lab2) | `https:/` |
 | **Order Service** (Node.js) | [Link to Order Service](https://github.com/harshdeep1230/order-service-lab2) | `https://order-service-app.azurewebsites.net` |
 | **Product Service** (Rewritten) | [Link to Product Service](https://github.com/harshdeep1230/product-service-lab2) | `https://product-service-app.azurewebsites.net` |
 | **RabbitMQ Broker** | N/A (Hosted on Azure VM) | `http://52.139.34.219:15672` |
